@@ -4,11 +4,12 @@
 
 #sign{
     -fx-background-color:#7295cf ;
-    -fx
+
 }
 
 .button:hover {
     -fx-scale-y: 1.1;
+    -fx-font-size: 22;
 }
 
 #equal{
